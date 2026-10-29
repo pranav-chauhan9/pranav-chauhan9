@@ -195,14 +195,14 @@ shopping platforms.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/pranav-chauhan9">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:**  pranav.chauhan1817@gmail.com
 
 </div>
 
